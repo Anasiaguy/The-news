@@ -1,0 +1,20 @@
+<html>
+  <head>
+    <title> The News </title>
+    <style>
+      body {
+        background-color: light blue;
+        text align: centre;
+        padding: 200px;
+      }
+      h1 { 
+        font size: 60px;
+        color: black;
+        color: #ffc800;
+        }
+    </style>
+    </head>
+    <body>
+      <h1> The news </h1>
+    </body>
+</html>
